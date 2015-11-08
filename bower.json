@@ -1,0 +1,31 @@
+{
+  "name": "boilerplate-requirejs-browser-node",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "vikramkamath <vikikikamath@gmail.com>"
+  ],
+  "description": "\"Boilerplate JS with unit tests on Browsers and, Nodejs using headless browser\"",
+  "keywords": [
+    "mocha",
+    "requirejs",
+    "chai",
+    "boiler-plate"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "~2.3.3",
+    "chai": "~3.4.1"
+  },
+  "dependencies": {
+    "requirejs": "~2.1.20"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "boilerplate-requirejs-browser-node",
+  "version": "0.0.1",
+  "description": "Boilerplate JS with unit tests on Browsers and, Nodejs using headless browser",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha-phantomjs test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vikikamath/boilerplate-requirejs-browser-node"
+  },
+  "keywords": [
+    "requirejs",
+    "mocha-phantomjs",
+    "nodejs",
+    "browser",
+    "mocha",
+    "chai"
+  ],
+  "author": "vikikamath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikikamath/boilerplate-requirejs-browser-node/issues"
+  },
+  "homepage": "https://github.com/vikikamath/boilerplate-requirejs-browser-node",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3",
+    "mocha-phantomjs": "^4.0.1"
+  }
+}
