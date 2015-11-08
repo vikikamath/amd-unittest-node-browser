@@ -3,7 +3,7 @@
   "main": "index.js",
   "version": "0.0.1",
   "authors": [
-    "vikramkamath <vikikikamath@gmail.com>"
+    "vikikamath <vikikikamath@gmail.com>"
   ],
   "description": "\"Boilerplate JS with unit tests on Browsers and, Nodejs using headless browser\"",
   "keywords": [
