@@ -1,4 +1,4 @@
-# BoilerPlate-RequireJS-Browser-Node
+# amd-unittest-node-browser
 
 This is a scaffolding project created to 
 - quickly setup 
